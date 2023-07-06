@@ -77,7 +77,7 @@ while True:
     
     #Prints if the user or computer won, or if it was a draw
     if result == 'DRAW':
-        print("<== Tie ==>")
+        print("Tie!")
     elif result == user_choice_name:
         print("You Win!")
     else:
